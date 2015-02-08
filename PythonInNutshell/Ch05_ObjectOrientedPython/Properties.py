@@ -1,4 +1,4 @@
-__author__ = 'sumaneshm'
+__author__ = 'Sumanesh Magarabooshanam'
 
 
 class Rectangle(object):
