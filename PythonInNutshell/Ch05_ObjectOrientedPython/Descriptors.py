@@ -42,3 +42,7 @@ def PrintDetails(s):
 
 for s in students:
     PrintDetails(s)
+
+s = Student("New Student", 20, 30, 45)
+print(s.total)
+#s.total = "Overridden"
