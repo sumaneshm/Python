@@ -2,88 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31fede0a-258e-44eb-a7f4-7d9a16931181" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.bz2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/MasteringPython.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../MasteringPython/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/PythonBeyondTheBasics.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/CommandLineRnD.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/bzipped.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/gzipped.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Packages.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/reader.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/PythonFundamentals.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Collections/ListCollection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Collections/RangeCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Collections/SetCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Collections/StrAsCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Collections/Tuples.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Exceptions/Generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Exceptions/Generators_Demystified.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Exceptions/exceptional.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/PolymorphismShownByFileObject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/ReadWriteTextFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/RefrigeratorRaider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/Wasteland.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/bmp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/recaman.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/FilesAndResourceManagement/recamansequence.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Introduction/DefaultArguments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Introduction/FetchWordsFromWeb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Iterables/Comprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Iterables/GeneratorComprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Iterables/IsPrime_Comprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/Iterables/IteratorsBattery.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/MaintainableCode/palindrome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/MaintainableCode/palindrome/palindrome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/MaintainableCode/palindrome/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/MaintainableCode/text_analyzer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../PythonFundamentals/OOPS/AirTravel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/PythonEssentialReference.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/ClassAndObject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Conditionals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Coroutines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Dictionaries.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/FileInputOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Lists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/NestedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/SimpleInterestCalculation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/TailGrep.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/pythonwritetest.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/RnD.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/TenStringsNumber.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestDrivenDevelopmentWithPython/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../TestDrivenDevelopmentWithPython/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/LocalFunctions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/call_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/enclosing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/escape_unicode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/make_timer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ClosuresAndDecorators/returning_functions_from_functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonBeyondTheBasics.iml" afterPath="$PROJECT_DIR$/.idea/PythonBeyondTheBasics.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PythonBeyondTheBasics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -104,26 +32,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Packages.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Packages.py">
+      <file leaf-file-name="returning_functions_from_functions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/returning_functions_from_functions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-              <folding>
-                <element signature="e#236#246#0" expanded="true" />
-              </folding>
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reader.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/reader.py">
+      <file leaf-file-name="enclosing.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/enclosing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5223368">
-              <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="108" selection-start-line="30" selection-start-column="108" selection-end-line="30" selection-end-column="108" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="make_timer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/make_timer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="escape_unicode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/escape_unicode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="call_count.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/call_count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24827586">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -166,7 +130,7 @@
         <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/CommandLineRnD.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -193,15 +157,20 @@
         <option value="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/gzipped.py" />
         <option value="$PROJECT_DIR$/OrganizingLargerPrograms/__init__.py" />
         <option value="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/bzipped.py" />
+        <option value="$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.py" />
         <option value="$PROJECT_DIR$/OrganizingLargerPrograms/reader.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/LocalFunctions.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/returning_functions_from_functions.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/enclosing.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/make_timer.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/escape_unicode.py" />
+        <option value="$PROJECT_DIR$/ClosuresAndDecorators/call_count.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1932" />
-    <option name="height" value="1066" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -230,23 +199,93 @@
     <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Packages">
-    <configuration default="false" name="Packages" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.call_count">
+    <configuration default="false" name="returning_functions_from_functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OrganizingLargerPrograms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClosuresAndDecorators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBeyondTheBasics" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OrganizingLargerPrograms/Packages.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosuresAndDecorators/returning_functions_from_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="enclosing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClosuresAndDecorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBeyondTheBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosuresAndDecorators/enclosing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="make_timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClosuresAndDecorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBeyondTheBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosuresAndDecorators/make_timer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="escape_unicode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClosuresAndDecorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBeyondTheBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosuresAndDecorators/escape_unicode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="call_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ClosuresAndDecorators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBeyondTheBasics" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClosuresAndDecorators/call_count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -373,12 +412,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Python.Packages" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.returning_functions_from_functions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.enclosing" />
+      <item index="2" class="java.lang.String" itemvalue="Python.make_timer" />
+      <item index="3" class="java.lang.String" itemvalue="Python.escape_unicode" />
+      <item index="4" class="java.lang.String" itemvalue="Python.call_count" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.Packages" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.call_count" />
+        <item index="1" class="java.lang.String" itemvalue="Python.escape_unicode" />
+        <item index="2" class="java.lang.String" itemvalue="Python.make_timer" />
+        <item index="3" class="java.lang.String" itemvalue="Python.enclosing" />
+        <item index="4" class="java.lang.String" itemvalue="Python.returning_functions_from_functions" />
       </list>
     </recent_temporary>
   </component>
@@ -396,10 +443,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1932" height="1066" extended-state="1" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50805587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5078125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3213483" sideWeight="0.5037594" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -411,11 +458,11 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32802126" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39959016" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3984064" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -450,24 +497,23 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/OrganizingLargerPrograms/reader.py</url>
-          <line>16</line>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/CommandLineRnD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Packages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,9 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -521,9 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -577,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -587,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,9 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,9 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -653,9 +678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -663,9 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -709,9 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -739,9 +755,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,9 +762,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,9 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,9 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,38 +809,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08275862">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Packages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="66" selection-start-line="26" selection-start-column="66" selection-end-line="26" selection-end-column="66" />
-          <folding>
-            <element signature="e#236#246#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/CommandLineRnD.py">
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/LocalFunctions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/returning_functions_from_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/bzipped.py">
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/enclosing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
+          <caret line="30" column="108" selection-start-line="30" selection-start-column="108" selection-end-line="30" selection-end-column="108" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/__init__.py">
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/make_timer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/escape_unicode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClosuresAndDecorators/call_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24827586">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
         </state>
       </provider>
@@ -851,13 +888,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/reader.py">
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5223368">
-          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/Compressed/bzipped.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrganizingLargerPrograms/CommandLineRnD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
