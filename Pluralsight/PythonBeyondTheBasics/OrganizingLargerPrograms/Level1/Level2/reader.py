@@ -1,10 +1,9 @@
 import os
-import sys
-
 # note that we have to refer to the complete package name to include modules
 # even if this class is inside that package
 
-from OrganizingLargerPrograms.Compressed import bzipped, gzipped
+from level2.compressed import bzipped
+from level2.compressed import gzipped
 
 extension_map = {
     '.bz2': bzipped.opener,

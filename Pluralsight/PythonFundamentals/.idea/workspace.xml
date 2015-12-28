@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad2f098e-de91-4511-b5db-4fedd933cdee" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/ListCollection.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/RangeCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/SetCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/StrAsCollections.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Collections/Tuples.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exceptions/Generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exceptions/Generators_Demystified.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Exceptions/exceptional.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FilesAndResourceManagement/PolymorphismShownByFileObject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FilesAndResourceManagement/ReadWriteTextFiles.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FilesAndResourceManagement/RefrigeratorRaider.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FilesAndResourceManagement/bmp.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FilesAndResourceManagement/recaman.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduction/DefaultArguments.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Introduction/FetchWordsFromWeb.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterables/Comprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterables/GeneratorComprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterables/IsPrime_Comprehension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterables/IteratorsBattery.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaintainableCode/palindrome.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaintainableCode/palindrome/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MaintainableCode/text_analyzer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OOPS/AirTravel.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/ClassAndObject.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Conditionals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Coroutines.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Dictionaries.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/FileInputOutput.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Generators.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/Lists.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/NestedList.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/SimpleInterestCalculation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../PythonEssentialReference/Chapter_01/TailGrep.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../RnD/TenStringsNumber.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../TestDrivenDevelopmentWithPython/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../TestDrivenDevelopmentWithPython/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../PythonBeyondTheBasics/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../PythonBeyondTheBasics/.idea/workspace.xml" />
     </list>
     <ignored path="PythonFundamentals.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -62,8 +26,8 @@
       <file leaf-file-name="palindrome.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MaintainableCode/palindrome/palindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41656944">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.07631874">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -113,8 +77,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1050" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -463,8 +428,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="976" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1141046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32937366" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -884,8 +849,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MaintainableCode/palindrome/palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41656944">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.07631874">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
