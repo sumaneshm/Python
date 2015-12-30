@@ -36,7 +36,7 @@ def make_upper(f):
     return wrap
 
 
-# look at how we have used the escape_ascii as a decorator.
+# look at how we have used the make_upper as a decorator.
 # here we are going to change the number to string automatically
 # the main advantage is that the logic is located in a central part
 # and we can nest multiple decorators

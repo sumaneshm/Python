@@ -58,10 +58,17 @@ class Shipping:
         self.content = content
         self.length_ft = length_ft
 
+    @property
+    def volume_ft3(self):
+        return (self.length_ft
+                * Shipping.HEIGHT_FT
+                * Shipping.WIDTH_FT)
+
 
 class RefrigeratedShipping(Shipping):
 
     MAX_CELSIUS = 4
+    FRIDGE_VOLUME_FT3 = 100
 
     @staticmethod
     def _get_bic_code(company, serial):
@@ -106,6 +113,24 @@ class RefrigeratedShipping(Shipping):
     def fahrenheit(self, value):
         self.celsius = self._f_to_c(value)
 
+    # override Property
+    @property
+    def volume_ft3(self):
+        return super().volume_ft3 - RefrigeratedShipping.FRIDGE_VOLUME_FT3
+
+
+class HeatedRefrigeratedShipping(RefrigeratedShipping):
+    MIN_CELSIUS = -20.0
+
+    # in order to correctly override a property, use fully qualified property name
+    @RefrigeratedShipping.celsius.setter
+    def celsius(self, value):
+        if HeatedRefrigeratedShipping.MIN_CELSIUS > value:
+            raise ValueError("Temperature too cold...")
+        # the below statement won't work
+        # super().celsius = value
+
+        RefrigeratedShipping.celsius.fset(self, value)
 
 def experiment1():
     t = Shipping("MSG", 12, "Utensils")
@@ -127,7 +152,10 @@ def experiment1():
     r.fahrenheit = 39
     print("After change : Celsius : {}, Fahrenheit : {}".format(r.celsius, r.fahrenheit))
 
+    print("Volume : ", r.volume_ft3)
 
+    h = HeatedRefrigeratedShipping("SHIP", 200, "Utilities",  -10)
+    print("Fahrenheit :", h.fahrenheit)
 
 if __name__ == '__main__':
     experiment1()
