@@ -123,6 +123,9 @@ class HeatedRefrigeratedShipping(RefrigeratedShipping):
     MIN_CELSIUS = -20.0
 
     # in order to correctly override a property, use fully qualified property name
+    # !!! while this method of override works fine, this is not the most elegant way to override
+    # as it involves us to hardcode the name of the class to refer to the setter.
+    # a more elegant way is introduced in the file "templated_properties.py"
     @RefrigeratedShipping.celsius.setter
     def celsius(self, value):
         if HeatedRefrigeratedShipping.MIN_CELSIUS > value:
