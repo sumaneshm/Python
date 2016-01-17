@@ -3,10 +3,10 @@ import datetime as dt
 
 def date_experiment():
     print(dt.date.today())
-    print(dt.date(1980, 12, 19))                  # year, month, date
-    aadhu = dt.date(year=2010, month=2, day=26)   # month -> 1 to 12 (not 0 based)
-    print(aadhu.weekday())                              # 0 - monday, 6 - sunday
-    print(aadhu.isoweekday())                           # 1 - monday, 7 - sunday
+    print(dt.date(1980, 12, 19))  # year, month, date
+    aadhu = dt.date(year=2010, month=2, day=26)  # month -> 1 to 12 (not 0 based)
+    print(aadhu.weekday())  # 0 - monday, 6 - sunday
+    print(aadhu.isoweekday())  # 1 - monday, 7 - sunday
     print("Day: {}, Month: {}, Year: {} ".format(aadhu.day, aadhu.month, aadhu.year))
 
 
@@ -25,7 +25,7 @@ def time_experiment():
 
 
 def datetime_experiment():
-    sumanesh = dt.datetime(1980, 12, 19, 10, 20, 3, 12)
+    dt.datetime(1980, 12, 19, 10, 20, 3, 12)
     print(dt.datetime.today())
     print(dt.datetime.now())
     print(dt.datetime.utcnow())
@@ -48,10 +48,11 @@ def datetime_experiment():
 
 
 def timedelta_experiment():
-   td = dt.timedelta(microseconds=1000, milliseconds=1)
-   print(td)
-   td = dt.timedelta(weeks=12, days=7, hours=12, minutes=12)
-   print(td)
+    td = dt.timedelta(microseconds=1000, milliseconds=1)
+    print(td)
+    td = dt.timedelta(weeks=12, days=7, hours=12, minutes=12)
+    print(td)
+
 
 if __name__ == '__main__':
     timedelta_experiment()
