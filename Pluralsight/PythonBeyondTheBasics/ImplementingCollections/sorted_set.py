@@ -1,13 +1,14 @@
 from _bisect import bisect_left
 from collections import Sequence
+from collections import Set
+from itertools import chain
 from random import randrange
 from timeit import timeit
 
 
 # by inheriting Sequence, we are saying that use __getitem__ & __len__ methods to
 # automatically supply "index" and "count" methods
-# class SortedSet(Sequence):
-class SortedSet():
+class SortedSet(Sequence):
     def __init__(self, items=None):
         # if items is None:
         #     self._items = []
@@ -16,6 +17,7 @@ class SortedSet():
         self._items = sorted(set(items) if not items is None else [])
 
     def __contains__(self, item):
+        assert self._is_sorted_and_unique()
         index = bisect_left(self._items, item)
         return index < len(self._items) and self._items[index] == item
 
@@ -53,13 +55,28 @@ class SortedSet():
         return int(item in self._items)
 
     def count(self, item):
+        assert self._is_sorted_and_unique()
         return self.count_enhanced(item)
 
     def index(self, item):
+        assert self._is_sorted_and_unique()
         index = bisect_left(self._items, item)
         if index < len(self._items) and self._items[index] == item:
             return index
         raise ValueError("{} doesn't exist".format(item))
+
+    def __add__(self, other):
+        return SortedSet(chain(self._items, other._items))
+
+    # if our class is in the lhs, this __mul__ will be called, if it is on the rhs, __rmul__ will be called
+    def __mul__(self, other):
+        return self if other > 0 else SortedSet()
+
+    def __rmul__(self, other):
+        return self * other
+
+    def _is_sorted_and_unique(self):
+        assert all(self.items[i] < self.items[i+1] for i in range(len(self._items) - 1))
 
 
 def timer_experiment():

@@ -1,5 +1,5 @@
 import unittest
-from collections.abs import (Container, Sized, Iterable, Sequence)
+from collections.abc import (Container, Sized, Iterable, Sequence)
 
 from sorted_set import SortedSet
 
@@ -42,6 +42,9 @@ class TestContainerProtocol(unittest.TestCase):
     def test_negative_not_container(self):
         self.assertFalse(1 not in self.s)
 
+    def test_subclass_container(self):
+        self.assertTrue(issubclass(SortedSet, Container))
+
 
 class TestSizedProtocol(unittest.TestCase):
     def test_zero_length(self):
@@ -55,6 +58,9 @@ class TestSizedProtocol(unittest.TestCase):
     def test_eliminates_duplicates(self):
         s = SortedSet([1, 1, 2, 2])
         self.assertEqual(2, len(s))
+
+    def test_subclass_sized(self):
+        self.assertTrue(issubclass(SortedSet, Sized))
 
 
 class TestIterableProtocol(unittest.TestCase):
@@ -71,9 +77,11 @@ class TestIterableProtocol(unittest.TestCase):
 
     def test_for_loop(self):
         exp = [2, 4, 5, 8]
-
         for expected, actual in zip(exp, self.s):
             self.assertEqual(expected, actual)
+
+    def test_subclass_iterable(self):
+        self.assertTrue(issubclass(SortedSet, Iterable))
 
 
 class TestSequenceProtocol(unittest.TestCase):
@@ -139,6 +147,35 @@ class TestSequenceProtocol(unittest.TestCase):
     def test_count_one(self):
         s = SortedSet([1, 2, 3])
         self.assertEqual(1, s.count(1))
+
+    def test_subclass_sequence(self):
+        self.assertTrue(issubclass(SortedSet, Sequence))
+
+    def test_concatenate_distinct(self):
+        s1 = SortedSet([1, 2, 3])
+        s2 = SortedSet([4, 5, 6])
+        self.assertEqual(s1 + s2, SortedSet([1, 2, 3, 4, 5, 6]))
+
+    def test_concatenate_self(self):
+        s1 = SortedSet([1, 2, 3])
+        self.assertEqual(s1 + s1, s1)
+
+    def test_concatenate_overlap(self):
+        s1 = SortedSet([1, 2, 3])
+        s2 = SortedSet([3, 4, 5])
+        self.assertEqual(s1 + s2, SortedSet([1, 2, 3, 4, 5]))
+
+    def test_mult_zero(self):
+        s1 = SortedSet([1, 2, 3])
+        self.assertEqual(s1 * 0, SortedSet())
+
+    def test_mult_nonzero(self):
+        s1 = SortedSet([1, 2, 3])
+        self.assertEqual(s1 * 100, SortedSet([1, 2, 3]))
+
+    def test_mult_right_nonzero(self):
+        s1 = SortedSet([1, 2, 3])
+        self.assertEqual(100 * s1, SortedSet([1, 2, 3]))
 
 class TestReprProtocol(unittest.TestCase):
     def test_empty_set(self):
