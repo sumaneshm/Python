@@ -1,4 +1,4 @@
-# yield creates a class for thie loop and hence it is called as Generator
+# yield creates a class for this loop and hence it is called as Generator
 
 def countdown(n):
     print("Counting down...")

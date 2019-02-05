@@ -1,3 +1,5 @@
+from math import factorial as fac
+
 #######################################################################################
 # List comprehensions
 #######################################################################################
@@ -44,3 +46,10 @@ state_to_capital = {'TamilNadu': 'Chennai',
 capital_to_state = {capital: state for state, capital in state_to_capital.items()}
 
 pp(capital_to_state)
+
+sentence = "boy drank his water as he was feeling very thirsty".split()
+comp = [len(word) for word in sentence]
+pp(comp)
+
+f = [(x, fac(x), len(str(fac(x)))) for x in range(20)]
+pp(f)
